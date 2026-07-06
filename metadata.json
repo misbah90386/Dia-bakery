@@ -1,0 +1,6 @@
+{
+  "name": "Dia Bakery (مخابز ديا)",
+  "description": "Premium, modern, bilingual (Arabic & English) website for Dia Bakery (مخابز ديا) in Riyadh, Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
